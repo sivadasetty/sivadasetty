@@ -22,16 +22,17 @@ Hi there 👋
 📜 Selected recent works
   - Wang, Dasetty, Sarupria and Blenner [Rational engineering of low temperature activity in Geobacillus thermocatenulatus lipase](https://www.biorxiv.org/content/10.1101/2021.03.14.435354v1), submitted, _Biochem. Eng. J._, 2021.
   - Dasetty and Sarupria, [Advancing rational control of peptide-surface complexes](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c10740), _J. Phys. Chem. B._, 2021.
-  - Dasetty, Barrows, and Sarupria [Adsorption of Amino Acids on Graphene: Assessment of Current Force Fields](http://dx.doi.org/10.1039/C8SM02621A), _Soft Matter_, 2019.
-  - Dasetty, Meza-Morales, Getman and Sarupria [Simulations of interfacial processes: Recent advances in force field development](https://doi.org/10.1016/j.coche.2019.04.003), _Curr. Opin. Chem. Eng._, 2019.
+  - Dasetty, Barrows, and Sarupria [Adsorption of amino Acids on graphene: assessment of current force fields](http://dx.doi.org/10.1039/C8SM02621A), _Soft Matter_, 2019.
+  - Dasetty, Meza-Morales, Getman and Sarupria [Simulations of interfacial processes: recent advances in force field development](https://doi.org/10.1016/j.coche.2019.04.003), _Curr. Opin. Chem. Eng._, 2019.
   - Dasetty, Blenner and Sarupria [Engineering lipases: walking the fine line between activity and stability](https://doi.org/10.1088/2053-1591/aa9946), _Mater. Res. Express_, 2017.
 
 📫 How to reach me:
-  - [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
-<!-- [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) -->
+  - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
+  - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) 
 
 <p align="center">
-  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="https://www.linkedin.com/in/sivadasetty/" title="Hits" width="50"/>
+  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> 
+<!-- <a href="http://hits.dwyl.com/sivadasetty/sivadasetty"> </a> -->
 <!-- [![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)](http://hits.dwyl.com/sivadasetty/sivadasetty) -->
 </p>
 
