@@ -5,7 +5,7 @@
   - Exploring assembly of like charged dielectric nanoparticles.
 -->
 
-<img src="/docs/LI-In-Bug.png" alt="www.linkedin.com/in/sivadasetty" title="LinkedIn" width="25"/>
+[<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/)
 
 
 <!--
