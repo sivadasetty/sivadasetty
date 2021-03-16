@@ -10,6 +10,7 @@ I use
   - `Python` `C++` `Fortran` `R` `html`
   - [`GROMACS`](https://manual.gromacs.org) [`LAMMPS`](https://lammps.sandia.gov)
   - [`SSAGES`](https://ssagesproject.github.io) [`PLUMED`](https://www.plumed.org)
+  - Gaussian process regression: [GPyTorch](https://gpytorch.ai) and [scikit-learn](https://scikit-learn.org/stable/).
 
 I am interested in
   - Application of data-driven approaches to address real-world problems.
@@ -25,7 +26,7 @@ Selected recent works
   - Dasetty, Meza-Morales, Getman and Sarupria [Simulations of interfacial processes: Recent advances in force field development](https://doi.org/10.1016/j.coche.2019.04.003), _Curr. Opin. Chem. Eng._, 2019.
   - Dasetty, Blenner and Sarupria [Engineering lipases: walking the fine line between activity and stability](https://doi.org/10.1088/2053-1591/aa9946), _Mater. Res. Express_, 2017.
 
-I can be reached @: 
+I can be reached by 
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
 <!-- [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) -->
 
