@@ -30,11 +30,11 @@ Hi there 👋
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
   - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) 
 
-<p align="center">
+<!-- <p align="center"> -->
 <!--  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> -->
-<a href="http://hits.dwyl.com/sivadasetty/sivadasetty"> <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> </a> 
-<!-- [![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)](http://hits.dwyl.com/sivadasetty/sivadasetty) -->
-</p>
+<!-- <a href="http://hits.dwyl.com/sivadasetty/sivadasetty"> <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> </a> -->
+[![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)](http://hits.dwyl.com/sivadasetty/sivadasetty)
+<!-- </p> -->
 
 
 <!--
