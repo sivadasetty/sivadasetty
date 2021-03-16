@@ -26,7 +26,7 @@ Selected recent works
   - Dasetty, Blenner and Sarupria [Engineering lipases: walking the fine line between activity and stability](https://doi.org/10.1088/2053-1591/aa9946), Materials Research Express, 2017.
 
 To reach me: 
-  - [✉️](mailto:sivadasetty@uchicago.edu)
+  - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
 <!-- [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) -->
 
 
