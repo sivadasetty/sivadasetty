@@ -34,7 +34,7 @@ Hi there 👋
 <!-- <p align="center"> -->
 <!--  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> -->
 <!-- <a href="http://hits.dwyl.com/sivadasetty/sivadasetty"> <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> </a> -->
-[![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)](http://hits.dwyl.com/sivadasetty/sivadasetty)
+![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)
 <!-- </p> -->
 
 
