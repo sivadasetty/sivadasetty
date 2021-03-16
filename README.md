@@ -30,6 +30,10 @@ Hi there 👋
   - [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
 <!-- [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) -->
 
+<p align="center">
+[![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)](http://hits.dwyl.com/sivadasetty/sivadasetty)
+</p>
+
 
 <!--
 **sivadasetty/sivadasetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
