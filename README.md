@@ -28,7 +28,7 @@ Hi there 👋
 
 📫 How to reach me
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
-  - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/>](https://www.linkedin.com/in/sivadasetty/) 
+  - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/) 
 
 
 <!-- <p align="center"> -->
