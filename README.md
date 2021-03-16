@@ -7,7 +7,7 @@ I’m currently working on
   - :microscope: Exploring assembly of like charged dielectric nanoparticles.
 
 I use
-  - `Python` `C++` `Fortran` `MATLAB` `R` `html`
+  - `Python` `C++` `Fortran` `MATLAB` `R` `HTML` `JS`
   - [`GROMACS`](https://manual.gromacs.org) [`LAMMPS`](https://lammps.sandia.gov)
   - [`SSAGES`](https://ssagesproject.github.io) [`PLUMED`](https://www.plumed.org)
   - Gaussian process regression: [GPyTorch](https://gpytorch.ai) and [scikit-learn](https://scikit-learn.org/stable/).
