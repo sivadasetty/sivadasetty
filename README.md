@@ -1,4 +1,12 @@
-### Hi there 👋
+<!--
+#### Hi there 👋
+
+🔭 I’m currently working on
+  - Exploring assembly of like charged dielectric nanoparticles.
+-->
+
+<img src="/docs/LI-In-Bug.png" alt="www.linkedin.com/in/sivadasetty" title="LinkedIn" width="25"/>
+
 
 <!--
 **sivadasetty/sivadasetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
