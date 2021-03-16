@@ -31,7 +31,8 @@ Hi there 👋
 <!-- [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) -->
 
 <p align="center">
-[![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)](http://hits.dwyl.com/sivadasetty/sivadasetty)
+  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="https://www.linkedin.com/in/sivadasetty/" title="Hits" width="50"/>
+<!-- [![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)](http://hits.dwyl.com/sivadasetty/sivadasetty) -->
 </p>
 
 
