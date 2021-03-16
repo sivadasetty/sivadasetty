@@ -1,11 +1,12 @@
-<!--
-#### Hi there 👋
+Hi there 👋
+
+#### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
 
 🔭 I’m currently working on
+  - Implementing enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES).
   - Exploring assembly of like charged dielectric nanoparticles.
--->
 
-[<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/)
+<!-- [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) -->
 
 
 <!--
