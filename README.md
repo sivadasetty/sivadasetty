@@ -26,9 +26,10 @@ Hi there 👋
   - Dasetty, Meza-Morales, Getman and Sarupria [Simulations of interfacial processes: recent advances in force field development](https://doi.org/10.1016/j.coche.2019.04.003), _Curr. Opin. Chem. Eng._, 2019.
   - Dasetty, Blenner and Sarupria [Engineering lipases: walking the fine line between activity and stability](https://doi.org/10.1088/2053-1591/aa9946), _Mater. Res. Express_, 2017.
 
-📫 How to reach me:
+📫 How to reach me
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
   - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="25"/>](https://www.linkedin.com/in/sivadasetty/) 
+
 
 <!-- <p align="center"> -->
 <!--  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> -->
