@@ -12,6 +12,8 @@ Hi there 👋
   - [`SSAGES`](https://ssagesproject.github.io) [`PLUMED`](https://www.plumed.org)
   - Gaussian process regression: [GPyTorch](https://gpytorch.ai) and [scikit-learn](https://scikit-learn.org/stable/).
  
+ ------------
+ 
 📜 Selected recent works
   - Wang, Dasetty, Sarupria and Blenner [Rational engineering of low temperature activity in Geobacillus thermocatenulatus lipase](https://www.biorxiv.org/content/10.1101/2021.03.14.435354v1), submitted, _Biochem. Eng. J._, 2021.
   - Dasetty and Sarupria, [Advancing rational control of peptide-surface complexes](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c10740), _J. Phys. Chem. B._, 2021.
@@ -28,6 +30,8 @@ Hi there 👋
 
 📓Notes
   - _in progress_
+
+ ------------
 
 📫 Reach me @
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
