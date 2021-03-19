@@ -5,7 +5,7 @@ Hi there 👋
 🔭 I’m currently contributing to
   - implementation of new CVs and enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PLUMED](https://github.com/plumed/plumed2).
   - exploration of the assembly of like charged dielectric nanoparticles.
-  - 🆕 achieving clean water.  
+  - 🆕 a novel ML based solution for tackling a grand challenge in water.  
 
 🖥️ using
   - `Python` `C++` `Fortran` `MATLAB` `R`
