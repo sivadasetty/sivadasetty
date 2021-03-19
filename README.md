@@ -2,10 +2,10 @@ Hi there 👋
 
 #### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
 
-🔭 I’m currently working on
-  - Implementing CVs and enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PLUMED](https://github.com/plumed/plumed2).
-  - Exploring assembly of like charged dielectric nanoparticles.
-  - 🆕 Tackling a grand challenge in water.  
+🔭 I’m currently contributing to
+  - implementation of new CVs and enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PLUMED](https://github.com/plumed/plumed2).
+  - exploration of the assembly of like charged dielectric nanoparticles.
+  - 🆕 achieving clean water.  
 
 🖥️ using
   - `Python` `C++` `Fortran` `MATLAB` `R`
