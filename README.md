@@ -3,14 +3,16 @@ Hi there 👋
 #### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
 
 🔭 I’m currently working on
-  - Implementing enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES).
+  - Implementing CVs and enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PLUMED](https://github.com/plumed/plumed2).
   - Exploring assembly of like charged dielectric nanoparticles.
+  - 🆕 Tackling a grand challenge in water.  
 
-:hammer_and_wrench: using
+🖥️ using
   - `Python` `C++` `Fortran` `MATLAB` `R`
+  - Libraries: `Numpy`, `Pandas`, `GPyTorch`, `Sklearn`, `SciPy`, `Jupyter`, `PyTorch`
   - [`GROMACS`](https://manual.gromacs.org) [`LAMMPS`](https://lammps.sandia.gov)
   - [`SSAGES`](https://ssagesproject.github.io) [`PLUMED`](https://www.plumed.org)
-  - Gaussian process regression: [GPyTorch](https://gpytorch.ai) and [scikit-learn](https://scikit-learn.org/stable/).
+  - High-performance computing platform.
  
  ------------
  
