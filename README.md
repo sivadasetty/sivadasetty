@@ -19,7 +19,7 @@ Hi there 👋
 📜 Selected recent works
   - Wang, Dasetty, Sarupria and Blenner [Rational engineering of low temperature activity in Geobacillus thermocatenulatus lipase](https://www.biorxiv.org/content/10.1101/2021.03.14.435354v1), submitted, _Biochem. Eng. J._, 2021.
   - Dasetty and Sarupria, [Advancing rational control of peptide-surface complexes](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c10740), _J. Phys. Chem. B._, 2021.
-  - Dasetty, Barrows, and Sarupria [Adsorption of amino Acids on graphene: assessment of current force fields](http://dx.doi.org/10.1039/C8SM02621A), _Soft Matter_, 2019.
+  - Dasetty, Barrows, and Sarupria [Adsorption of amino acids on graphene: assessment of current force fields](http://dx.doi.org/10.1039/C8SM02621A), _Soft Matter_, 2019.
   - Dasetty, Meza-Morales, Getman and Sarupria [Simulations of interfacial processes: recent advances in force field development](https://doi.org/10.1016/j.coche.2019.04.003), _Curr. Opin. Chem. Eng._, 2019.
   - Dasetty, Blenner and Sarupria [Engineering lipases: walking the fine line between activity and stability](https://doi.org/10.1088/2053-1591/aa9946), _Mater. Res. Express_, 2017.
 
