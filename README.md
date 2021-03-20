@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋🏽
 
 #### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
 
