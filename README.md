@@ -16,7 +16,7 @@ Hi there 👋🏽
  
  ------------
  
-:mantelpiece_clock: Graduate research at [Sarupria group](https://molecularsimulations.sites.clemson.edu), ChBE @Clemson.
+ :mantelpiece_clock: Graduate research at [Sarupria group](https://molecularsimulations.sites.clemson.edu), ChBE @Clemson.
   - Dissertation (PhD, 2019): Towards computer aided engineering of proteins and protein-surface complexes.
   - Thesis (MS, 2015): Understanding molecular interactions between proteins and carbon nanomaterials.
  
@@ -27,21 +27,21 @@ Hi there 👋🏽
   - Dasetty, Meza-Morales, Getman and Sarupria [Simulations of interfacial processes: recent advances in force field development](https://doi.org/10.1016/j.coche.2019.04.003), _Curr. Opin. Chem. Eng._, 2019.
   - Dasetty, Blenner and Sarupria [Engineering lipases: walking the fine line between activity and stability](https://doi.org/10.1088/2053-1591/aa9946), _Mater. Res. Express_, 2017.
 
-:large_blue_diamond: Interests
+💠 Interests
   - Application of data-driven approaches to address real-world problems.
   - Statistical mechanics and Probability.
   - Molecular simulations and enhanced sampling approaches.
   - Deep learning.
   - Coding.
 
-📓Notes
-  - _in progress_
+------------
 
- ------------
-
-📫 Reach me @
+💬 Reach me @
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
   - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/)
+ 
+:electron: Happy to
+  - collaborate/volunteer on topics related to listed interests.
 
 <!-- <p align="center"> -->
 <!--  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> -->
