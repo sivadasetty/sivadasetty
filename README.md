@@ -16,6 +16,10 @@ Hi there 👋🏽
  
  ------------
  
+:mantelpiece_clock: Graduate research in [Sarupria group](https://molecularsimulations.sites.clemson.edu), ChBE @Clemson.
+  - Dissertation (PhD, 2019): Towards computer aided engineering of proteins and protein-surface complexes.
+  - Thesis (MS, 2015): Understanding molecular interactions between proteins and carbon nanomaterials.
+ 
 📜 Selected recent works ([Publons profile](https://publons.com/researcher/4333234/siva-dasetty/))
   - Wang, Dasetty, Sarupria and Blenner [Rational engineering of low temperature activity in Geobacillus thermocatenulatus lipase](https://www.biorxiv.org/content/10.1101/2021.03.14.435354v1), submitted, _Biochem. Eng. J._, 2021.
   - Dasetty and Sarupria, [Advancing rational control of peptide-surface complexes](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c10740), _J. Phys. Chem. B._, 2021.
