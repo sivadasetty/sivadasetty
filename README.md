@@ -35,13 +35,12 @@ Hi there 👋🏽
   - Coding.
 
 ------------
+:electron: Happy to
+  - collaborate/volunteer on topics related to listed interests.
 
 💬 Reach me @
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
   - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/)
- 
-:electron: Happy to
-  - collaborate/volunteer on topics related to listed interests.
 
 <!-- <p align="center"> -->
 <!--  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> -->
