@@ -16,11 +16,12 @@ Hi there 👋🏽
  
  ------------
  
- :mantelpiece_clock: Previously
+ :mantelpiece_clock: Previously (Chronological order)
   - Graduate research at [Sarupria group](https://molecularsimulations.sites.clemson.edu), ChBE @Clemson.
     - Dissertation (PhD, 2019): Towards computer aided engineering of proteins and protein-surface complexes.
     - Thesis (MS, 2015): Understanding molecular interactions between proteins and carbon nanomaterials.
   - Software developer at [mscripts](https://www.linkedin.com/company/mscripts/), Exeter @Banglore.
+  - Undergraduate research at [Ayappa lab](https://kgalabiisc.wixsite.com/kgalab)
 
 📜 Works 
   - [<img src="/docs/google-scholar.svg" alt="https://scholar.google.com/citations?user=Da5qwcYAAAAJ&hl=en&authuser=1" title="Scholar" width="18"/> Google Scholar](https://scholar.google.com/citations?user=Da5qwcYAAAAJ&hl=en&authuser=1)
