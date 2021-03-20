@@ -16,9 +16,11 @@ Hi there 👋🏽
  
  ------------
  
- :mantelpiece_clock: Graduate research at [Sarupria group](https://molecularsimulations.sites.clemson.edu), ChBE @Clemson.
-  - Dissertation (PhD, 2019): Towards computer aided engineering of proteins and protein-surface complexes.
-  - Thesis (MS, 2015): Understanding molecular interactions between proteins and carbon nanomaterials.
+ :mantelpiece_clock: 
+  - Graduate research at [Sarupria group](https://molecularsimulations.sites.clemson.edu), ChBE @Clemson.
+    - Dissertation (PhD, 2019): Towards computer aided engineering of proteins and protein-surface complexes.
+    - Thesis (MS, 2015): Understanding molecular interactions between proteins and carbon nanomaterials.
+  - Software developer at [mscripts](https://www.linkedin.com/company/mscripts/), Exeter @Banglore.
 
 📜 Works 
   - [Publons profile](https://publons.com/researcher/4333234/siva-dasetty/), 
