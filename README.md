@@ -44,7 +44,7 @@ Hi there 👋
 <!--  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> -->
 <!-- <a href="http://hits.dwyl.com/sivadasetty/sivadasetty"> <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> </a> -->
 <!-- [![HitCount](http://hits.dwyl.com/sivadasetty/sivadasetty.svg)](http://hits.dwyl.com/sivadasetty/sivadasetty) -->
-<!-- ![ViewCount](https://views.whatilearened.today/views/github/sivadasetty/sivadasetty.svg) -->
+![ViewCount](https://views.whatilearened.today/views/github/sivadasetty/sivadasetty.svg)
 <!-- </p> -->
 
 
