@@ -24,7 +24,7 @@ Hi there 👋🏽
 
 📜 Works 
   - [<img src="/docs/google-scholar.svg" alt="https://scholar.google.com/citations?user=Da5qwcYAAAAJ&hl=en&authuser=1" title="Scholar" width="18"/> Google Scholar](https://scholar.google.com/citations?user=Da5qwcYAAAAJ&hl=en&authuser=1)
-  - [Publons profile](https://publons.com/researcher/4333234/siva-dasetty/)
+  - [Publons](https://publons.com/researcher/4333234/siva-dasetty/)
   - [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="https://orcid.org/0000-0002-1666-7980" title=ORCiD/> ORCiD](https://orcid.org/0000-0002-1666-7980)
 
 💠 Interests
