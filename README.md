@@ -16,7 +16,7 @@ Hi there 👋🏽
  
  ------------
  
-📜 Selected recent works
+📜 Selected recent works ([Publons profile](https://publons.com/researcher/4333234/siva-dasetty/))
   - Wang, Dasetty, Sarupria and Blenner [Rational engineering of low temperature activity in Geobacillus thermocatenulatus lipase](https://www.biorxiv.org/content/10.1101/2021.03.14.435354v1), submitted, _Biochem. Eng. J._, 2021.
   - Dasetty and Sarupria, [Advancing rational control of peptide-surface complexes](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c10740), _J. Phys. Chem. B._, 2021.
   - Dasetty, Barrows, and Sarupria [Adsorption of amino acids on graphene: assessment of current force fields](http://dx.doi.org/10.1039/C8SM02621A), _Soft Matter_, 2019.
@@ -37,8 +37,7 @@ Hi there 👋🏽
 
 📫 Reach me @
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
-  - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/) 
-
+  - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/)
 
 <!-- <p align="center"> -->
 <!--  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> -->
