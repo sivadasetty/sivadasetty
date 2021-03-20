@@ -16,7 +16,7 @@ Hi there 👋🏽
  
  ------------
  
- :mantelpiece_clock: 
+ :mantelpiece_clock: Previously
   - Graduate research at [Sarupria group](https://molecularsimulations.sites.clemson.edu), ChBE @Clemson.
     - Dissertation (PhD, 2019): Towards computer aided engineering of proteins and protein-surface complexes.
     - Thesis (MS, 2015): Understanding molecular interactions between proteins and carbon nanomaterials.
