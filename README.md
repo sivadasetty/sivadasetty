@@ -29,7 +29,7 @@ Hi there 👋🏽
   - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ResearchGate_Logo.png/220px-ResearchGate_Logo.png" alt="https://www.researchgate.net/profile/Siva_Dasetty" title=ResearchGate width="40"/> ResearchGate](https://www.researchgate.net/profile/Siva_Dasetty)
 
 📓 Notes
-  - [Bias forces in WTMD](/notes/wtmd-notes.pdf)
+  - [Bias forces in WtMD](/notes/wtmd-notes.pdf)
 
 💠 Interests
   - Application of data-driven approaches to address real-world problems.
