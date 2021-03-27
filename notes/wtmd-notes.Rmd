@@ -47,7 +47,7 @@ $\left\{ \frac{dV_{\text{bias}}\left( CV,t_{\text{niter}} \right)}{\text{dCV}} \
 - w \times \frac{\left( CV - CV_{\text{niter}} \right)}{\sigma^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV - CV_{\text{niter}} \right)}{\sigma} \right)^{2} \right\}\  \Biggr\}_{CV_{t}}
 \end{align*}
 
-3. N CVs
+2. N CVs
 
 Bias potential every n number of iterations (niter):
 
