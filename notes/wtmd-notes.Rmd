@@ -13,7 +13,7 @@ Notes | 07.07.20
 
 1. Single CV
 
-According to well-tempered metadynamics[@Parrinello:08:PRL], bias potential ($V_{\text{bias}}$) deposited at any time ($t$) along a single collective variable (CV) with respect to CV every iteration ($niter$),
+According to well-tempered metadynamics[@Parrinello:08:PRL], bias potential ($V_{\text{bias}}$) deposited at any time ($t$) along a single collective variable (CV) with respect to CV at every iteration ($niter$),
 $$V_{\text{bias}}\left( \text{CV},\ t_{\text{niter}} \right)_{\text{CV}_{t}} = V_{\text{bias}}\left( \text{CV},\ t_{niter - 1} \right)_{\text{CV}_{t}} + w \times {\exp\left\{ - \frac{1}{2}\left( \frac{\left( \text{CV} - \text{CV}_{\text{niter}} \right)}{\sigma} \right)^{2} \right\}}_{\text{CV}_{t}}$$
 
 -   In standard metadynamics[@Parrinello:02:PNAS], $w = w_{0}$
@@ -26,7 +26,7 @@ Force at every timestep (t) due to deposited bias potential:
 
 $$F_{\text{bias}}(\text{r}, t) = \  - \left\{ \frac{dV_{\text{bias}}\left( \text{CV},t_{\text{niter}} \right)}{\text{dCV}} \right\}_{\text{CV}_{t}} \times \frac{\text{dCV}}{\text{dr}_{t}}$$
 
-Substituting $V_{\text{bias}\left( \text{CV},\ t_{\text{niter}} \right)}$ in the first term of the RHS in the above equation
+Substituting $V_{\text{bias}}\left( \text{CV},\ t_{\text{niter}} \right)$ in the first term of the RHS in the above equation
 
 $$\left\{ \frac{dV_{\text{bias}}\left( \text{CV},t_{\text{niter}} \right)}{\text{dCV}} \right\}_{\text{CV}_{t}} = \left\{ \frac{d\left\lbrack V_{\text{bias}}\left( \text{CV},\ t_{niter - 1} \right) + w \times \exp\left\{ - \frac{1}{2}\left( \frac{\left( \text{CV} - \text{CV}_{\text{niter}} \right)}{\sigma} \right)^{2} \right\} \right\rbrack}{\text{dCV}} \right\}_{\text{CV}_{t}}\ $$
 
