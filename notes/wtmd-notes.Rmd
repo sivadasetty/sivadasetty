@@ -43,7 +43,7 @@ $\left\{ \frac{dV_{\text{bias}}\left( CV,t_{\text{niter}} \right)}{\text{dCV}} \
 \left\{ \frac{dV_{\text{bias}}\left( CV,t_{\text{niter}} \right)}{\text{dCV}} \right\}_{CV_{t}} =
 \end{align*}
 \begin{align*}
-\Biggl\{ \sum_{\ niter \leq niter - 1}^{}\left\lbrack - w \times \frac{\left( CV - CV_{\text{niter}} \right)}{\sigma^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV - CV_{\text{niter}} \right)}{\sigma} \right)^{2} \right\} \right\rbrack\ \\
+\Biggl\{ \sum_{\ iter \leq niter - 1}^{}\left\lbrack - w \times \frac{\left( CV - CV_{\text{niter}} \right)}{\sigma^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV - CV_{\text{niter}} \right)}{\sigma} \right)^{2} \right\} \right\rbrack\ \\
 - w \times \frac{\left( CV - CV_{\text{niter}} \right)}{\sigma^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV - CV_{\text{niter}} \right)}{\sigma} \right)^{2} \right\}\  \Biggr\}_{CV_{t}}
 \end{align*}
 
@@ -87,7 +87,7 @@ $$\left\{ \frac{d\left\lbrack w \times \prod_{i = 1..N}^{}{\exp\left\{ - \frac{1
 Substituting helper function in general case i.e., $\left\{ \frac{dV_{\text{bias}}\left( CV_{1},CV_{2},{\ldots CV_{n},t}_{\text{niter}} \right)}{\text{dC}V_{i}} \right\}_{CV_{i,t}}$
 $$\left\{ \frac{dV_{\text{bias}}\left( CV_{1},CV_{2},{\ldots CV_{n},t}_{\text{niter}} \right)}{\text{dC}V_{i}} \right\}_{CV_{i,t}} =$$
 \begin{align*}
-\Biggl\{ \sum_{\ niter \leq niter - 1}^{}\Biggl\lbrack - w \times \frac{\left( CV_{i} - CV_{i,niter} \right)}{\sigma_{i}^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV_{i} - CV_{i,\ niter} \right)}{\sigma_{i}} \right)^{2} \right\} \\ 
+\Biggl\{ \sum_{\ iter \leq niter - 1}^{}\Biggl\lbrack - w \times \frac{\left( CV_{i} - CV_{i,niter} \right)}{\sigma_{i}^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV_{i} - CV_{i,\ niter} \right)}{\sigma_{i}} \right)^{2} \right\} \\ 
 \times \prod_{j \neq i,j = 1..N}^{}{\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV_{i} - CV_{i,\ niter} \right)}{\sigma_{i}} \right)^{2} \right\}}\text{\ \ } \Biggr\rbrack\ \\
 \\
 - w \times \frac{\left( CV_{i} - CV_{i,niter} \right)}{\sigma_{i}^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV_{i} - CV_{i,\ niter} \right)}{\sigma_{i}} \right)^{2} \right\} \\
@@ -98,13 +98,13 @@ Combining the two terms in RHS,
 
 $$\left\{ \frac{dV_{\text{bias}}\left( CV_{1},CV_{2},{\ldots CV_{n},t}_{\text{niter}} \right)}{\text{dC}V_{i}} \right\}_{CV_{i,t}} =$$
 \begin{align*}
-\Bigg\{ \sum_{\ niter \leq niter}^{}\Biggl\lbrack - w \times \frac{\left( CV_{i} - CV_{i,niter} \right)}{\sigma_{i}^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV_{i} - CV_{i,\ niter} \right)}{\sigma_{i}} \right)^{2} \right\} \\
+\Bigg\{ \sum_{\ iter \leq niter}^{}\Biggl\lbrack - w \times \frac{\left( CV_{i} - CV_{i,niter} \right)}{\sigma_{i}^{2}}\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV_{i} - CV_{i,\ niter} \right)}{\sigma_{i}} \right)^{2} \right\} \\
 \times \prod_{j \neq i,j = 1..N}^{}{\exp\left\{ - \frac{1}{2}\left( \frac{\left( CV_{i} - CV_{i,\ niter} \right)}{\sigma_{i}} \right)^{2} \right\}}\text{\ \ } \Biggr\rbrack\  \Biggr\}_{CV_{i,t}}
 \end{align*}
 
 In terms of gaussianDerv (gDerv) and gaussian (g),
 
 $$\left\{ \frac{dV_{\text{bias}}\left( CV_{1},CV_{2},{\ldots CV_{n},t}_{\text{niter}} \right)}{\text{dC}V_{i}} \right\}_{CV_{i,t}} $$
-$$= \left\{ \sum_{\ niter \leq niter}^{}\left\lbrack w \times gDerv(CV_{i} - CV_{i,niter},\sigma_{i}) \times \prod_{j \neq i,j = 1..N}^{}{g\left( CV_{i} - CV_{i,niter},\sigma_{i} \right)}\text{\ \ } \right\rbrack\  \right\}_{CV_{i,t}}$$
+$$= \left\{ \sum_{\ iter \leq niter}^{}\left\lbrack w \times gDerv(CV_{i} - CV_{i,niter},\sigma_{i}) \times \prod_{j \neq i,j = 1..N}^{}{g\left( CV_{i} - CV_{i,niter},\sigma_{i} \right)}\text{\ \ } \right\rbrack\  \right\}_{CV_{i,t}}$$
 
 
