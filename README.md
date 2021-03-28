@@ -28,8 +28,8 @@ Hi there 👋🏽
   - [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="https://orcid.org/0000-0002-1666-7980" title=ORCiD/> ORCiD](https://orcid.org/0000-0002-1666-7980)
   - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ResearchGate_Logo.png/220px-ResearchGate_Logo.png" alt="https://www.researchgate.net/profile/Siva_Dasetty" title=ResearchGate width="40"/> ResearchGate](https://www.researchgate.net/profile/Siva_Dasetty)
 
-📓 Notes
-  - [Bias forces in WtMD](/notes/wtmd-notes.pdf)
+📓 Notes 
+  - [Bias forces in WtMD](/notes/wtmd-notes.pdf). Also on [Gitbook](https://app.gitbook.com/@sivadasetty/s/notes/).
 
 💠 Interests
   - Application of data-driven approaches to address real-world problems.
