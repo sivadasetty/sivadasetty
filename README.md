@@ -44,7 +44,7 @@ Hi there 👋🏽
 
 ------------
 :electron: Happy to
-  - collaborate/consult on listed interests.
+  - collaborate/consult/volunteer on listed interests.
 
 🗨 Reach me @
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
