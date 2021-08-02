@@ -3,7 +3,8 @@ Hi there 👋🏽
 #### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
 
 🔭 I’m currently contributing to
-  - implementation of enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES). <!-- and [PLUMED](https://github.com/plumed/plumed2) (🆕) .-->
+  - implementation of enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES). 
+  - ANN based CV in [PLUMED](https://github.com/plumed/plumed2).
   - exploration of the assembly of like charged dielectric nanoparticles.
   - 🆕 a novel ML based solution for tackling a grand challenge in water.  
 
