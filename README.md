@@ -3,10 +3,10 @@ Hi there 👋🏽
 #### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
 
 🔭 I’m currently contributing to
-  - implementation of enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES). 
-  - ANN based CV in [PLUMED](https://github.com/plumed/plumed2).
-  - exploration of the assembly of like charged dielectric nanoparticles.
-  - 🆕 a novel ML based solution for tackling a grand challenge in water.  
+  - implementation of enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PySAGES](https://github.com/SSAGESLabs/PySAGES). 
+  - artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2).
+  - applying active learning to advance design of switchable materials composed of dielectric nanoparticles.
+  - 🆕 a novel machine learning (ML) based solution for tackling a grand challenge in water.  
 
 <!--
 🖥️ using
@@ -14,7 +14,7 @@ Hi there 👋🏽
   - Libraries: `Numpy`, `Pandas`, `GPyTorch`, `Sklearn`, `SciPy`, `Jupyter`, `PyTorch`
   - [`GROMACS`](https://manual.gromacs.org) [`LAMMPS`](https://lammps.sandia.gov)
   - [`SSAGES`](https://ssagesproject.github.io) [`PLUMED`](https://www.plumed.org)
-  - High-performance computing platform.
+  - High-performance computing platform (SLURM).
  -->
  ------------
  
