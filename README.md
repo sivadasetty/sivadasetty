@@ -1,6 +1,6 @@
 Hi there 👋🏽
 
-#### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
+#### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago. [[Link to CV](https://github.com/sivadasetty/sivadasetty/blob/6b89ce41fc0ea1a722fe775c3d13fcf7f10dbafe/docs/CV-SivaDasetty.pdf)]
 
 🔭 I’m currently contributing to
   - implementation of enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PySAGES](https://github.com/SSAGESLabs/PySAGES). 
