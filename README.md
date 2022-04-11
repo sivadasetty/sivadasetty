@@ -1,6 +1,8 @@
 Hi there 👋🏽
 
-#### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago. [[Link to CV](https://github.com/sivadasetty/sivadasetty/blob/6b89ce41fc0ea1a722fe775c3d13fcf7f10dbafe/docs/CV-SivaDasetty.pdf)]
+#### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago. 
+
+<!--[[Link to CV](https://github.com/sivadasetty/sivadasetty/blob/6b89ce41fc0ea1a722fe775c3d13fcf7f10dbafe/docs/CV-SivaDasetty.pdf)]-->
 
 🔭 I’m currently contributing to
   - implementation of enhanced sampling methods in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PySAGES](https://github.com/SSAGESLabs/PySAGES). 
@@ -36,7 +38,7 @@ Hi there 👋🏽
   - [Bias forces in WtMD](/notes/wtmd-notes.pdf).
 -->
 
-💠 Interests
+♾️ Interests
   - Application of data-driven approaches to address real-world problems.
   - Statistical mechanics and Probability.
   - Molecular simulations and enhanced sampling approaches.
@@ -50,6 +52,8 @@ Hi there 👋🏽
 🗨 Reach me @
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
   - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/)
+
+
 
 <!-- <p align="center"> -->
 <!--  <img src="http://hits.dwyl.com/sivadasetty/sivadasetty.svg" alt="http://hits.dwyl.com/sivadasetty/sivadasetty" title="Hits" width="50"/> -->
