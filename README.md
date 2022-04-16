@@ -40,7 +40,7 @@ Hi there 👋🏽
   - collaborate/consult/volunteer on listed interests.
 
 🗨 Reach me @
-  - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
+  - ✉️ [email](mailto:mulish.tides-0o@icloud.com)
   - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/)
 
 ------------
