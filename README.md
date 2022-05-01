@@ -34,6 +34,8 @@ Hi there 👋🏽
   - Molecular simulations and enhanced sampling approaches.
   - Deep learning.
   - Coding.
+  - Algorithms.
+  - Network theory.
 
 ------------
 :electron: Happy to
