@@ -50,12 +50,13 @@ Hi there 👋🏽
   - [<img src="/docs/google-scholar.svg" alt="https://scholar.google.com/citations?user=Da5qwcYAAAAJ&hl=en&authuser=1" title="Scholar" width="18"/> Google Scholar](https://scholar.google.com/citations?user=Da5qwcYAAAAJ&hl=en&authuser=1)
   - [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="https://orcid.org/0000-0002-1666-7980" title=ORCiD/> ORCiD](https://orcid.org/0000-0002-1666-7980)
   - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ResearchGate_Logo.png/220px-ResearchGate_Logo.png" alt="https://www.researchgate.net/profile/Siva_Dasetty" title=ResearchGate width="40"/> ResearchGate](https://www.researchgate.net/profile/Siva_Dasetty)
-  - [GitBook](https://sivadasetty.gitbook.io/sivadasetty/)
+
 
 <!--
 📓 Notes (Also on [GitBook](https://sivadasetty.gitbook.io/sivadasetty/notes/wtmd))
   - [Bias forces in WtMD](/notes/wtmd-notes.pdf).
   - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Publons_logo.png/1920px-Publons_logo.png" alt="https://publons.com/researcher/4333234/siva-dasetty/" title="Publons" width="38"/> Publons](https://publons.com/researcher/4333234/siva-dasetty/)
+  - [GitBook](https://sivadasetty.gitbook.io/sivadasetty/)
 -->
 
 
