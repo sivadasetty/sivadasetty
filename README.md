@@ -6,7 +6,7 @@ Hi there 👋🏽
 
 🔭 Active projects
   - implementation of enhanced sampling methods and collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). 
-  - implementation and application of artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2) for direct enhanced sampling along environmental variables.
+  - implementation and application of artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2) for direct enhanced sampling along system and environmental variables.
   - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water.
   
 ✔️  Completed projects
