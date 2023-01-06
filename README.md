@@ -4,13 +4,15 @@ Hi there 👋🏽
 
 <!--[[Link to CV](https://github.com/sivadasetty/sivadasetty/blob/6b89ce41fc0ea1a722fe775c3d13fcf7f10dbafe/docs/CV-SivaDasetty.pdf)]-->
 
-🔭 Active projects
-  - implementation of enhanced sampling methods and collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). 
-  - implementation and application of artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2) for direct enhanced sampling along system and environmental variables.
-  - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water.
+🔭 Active works
+  - implementation of collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). 
+  - exploring role of water in many-body systems using machine learning.
+  - development and application of latent space simulators for complex biomolecular systems.
   
-✔️  Completed projects
-  - implementation of well-tempered metadynamics in [SSAGES](https://github.com/SSAGESproject/SSAGES).
+✔️  Completed works
+  - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water.
+  - implementation of metadynamics in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PySAGES](https://github.com/SSAGESLabs/PySAGES).
+  - implementation of artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2) for direct enhanced sampling along system and environmental variables.
   - active learning of polarizable nanoparticle phase diagrams for the guided design of triggerable self-assembling superlattices. [Link to published paper — featured in MSDE recent HOT 🔥 articles collection.](https://doi.org/10.1039/D1ME00187F)
   
 
