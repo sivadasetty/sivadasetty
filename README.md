@@ -52,9 +52,10 @@ Hi there 👋🏽
   - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/)
 
 ------------
-📜 Works
+📜 Links
   - [<img src="/docs/google-scholar.svg" alt="https://scholar.google.com/citations?user=Da5qwcYAAAAJ&hl=en&authuser=1" title="Scholar" width="18"/> Google Scholar](https://scholar.google.com/citations?user=Da5qwcYAAAAJ&hl=en&authuser=1)
   - [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="https://orcid.org/0000-0002-1666-7980" title=ORCiD/> ORCiD](https://orcid.org/0000-0002-1666-7980)
+  - [https://gist.github.com/sivadasetty](https://gist.github.com/sivadasetty)
  
  <!-- - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ResearchGate_Logo.png/220px-ResearchGate_Logo.png" alt="https://www.researchgate.net/profile/Siva_Dasetty" title=ResearchGate width="40"/> ResearchGate](https://www.researchgate.net/profile/Siva_Dasetty)
 -->
