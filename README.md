@@ -36,13 +36,9 @@ Hi there 👋🏽
 
 ♾️ Interests
   - Data-driven methods & applications.
-  - Statistical mechanics and Probability.
-  - Nonlinear dynamics.
-  - Modeling (molecular) and computational design.
-  - Deep learning.
-  - Coding.
-  - Algorithms.
-  - Network theory.
+  - Statistical mechanics (equilibrium), Enhanced sampling methods, Probability, Nonlinear dynamics.
+  - Modeling (molecular), numerical methods, computational design.
+  - Deep learning, Coding, Algorithms, Network theory.
 
 ------------
 :electron: Happy to
