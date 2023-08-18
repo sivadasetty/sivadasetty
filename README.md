@@ -30,7 +30,7 @@ Hi there 👋🏽
   - Graduate research at [Sarupria group](https://sarupriagroup.github.io), ChBE @Clemson.
     - Dissertation (PhD, 2019): Towards computer aided engineering of proteins and protein-surface complexes.
     - Thesis (MS, 2015): Understanding molecular interactions between proteins and carbon nanomaterials.
-  - Software developer at [mscripts](https://www.linkedin.com/company/mscripts/), Exeter @Banglore.
+  - Software developer in [mscripts team]([https://www.linkedin.com/company/mscripts/](https://www.mscripts.com)) at Exeter India @Banglore.
 
  ------------
 
