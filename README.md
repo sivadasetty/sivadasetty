@@ -11,8 +11,8 @@ Hi there 👋🏽
   
 ✔️  Completed works
   - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water. [Featured on TACC magazine -https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/](https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/)
-  - implementation of metadynamics in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PySAGES](https://github.com/SSAGESLabs/PySAGES).
-  - implementation of artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2) for direct enhanced sampling along system and environmental variables ([PINES](https://github.com/Ferg-Lab/pines/tree/main)).
+  - implementation of metadynamics in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PySAGES](https://github.com/SSAGESLabs/PySAGES). Link to paper: [https://doi.org/10.48550/arXiv.2301.04835](https://doi.org/10.48550/arXiv.2301.04835)
+  - implementation of artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2) for direct enhanced sampling along system and environmental variables ([PINES](https://github.com/Ferg-Lab/pines/tree/main)). Link to paper: [https://doi.org/10.48550/arXiv.2308.08680](https://doi.org/10.48550/arXiv.2308.08680)
   - active learning of polarizable nanoparticle phase diagrams for the guided design of triggerable self-assembling superlattices. [Link to published paper — featured in MSDE recent HOT 🔥 articles collection.](https://doi.org/10.1039/D1ME00187F)
   
 
