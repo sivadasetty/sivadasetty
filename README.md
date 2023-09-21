@@ -1,5 +1,5 @@
-Hi there 👋🏽
-
+👋🏽 I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
+<!-- Hi there 👋🏽 -- >
 #### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago. 
 
 <!--[[Link to CV](https://github.com/sivadasetty/sivadasetty/blob/6b89ce41fc0ea1a722fe775c3d13fcf7f10dbafe/docs/CV-SivaDasetty.pdf)]-->
@@ -42,9 +42,9 @@ Hi there 👋🏽
 
 ------------
 :electron: Happy to
-  - collaborate/consult/volunteer.
+  - collaborate/consult.
 
-🗨 Connect @
+🗨 Reach out @
   - ✉️ [sivadasetty@uchicago.edu](mailto:sivadasetty@uchicago.edu)
   - [<img src="/docs/LI-In-Bug.png" alt="https://www.linkedin.com/in/sivadasetty/" title="LinkedIn" width="18"/> LinkedIn](https://www.linkedin.com/in/sivadasetty/)
 
