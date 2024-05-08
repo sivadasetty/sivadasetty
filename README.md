@@ -7,7 +7,7 @@
 🔭 Active works
   - development of coarse-grained models and enhanced sampling methods using machine learning for large multi-molecular systems.
       -   Data-driven prediction of aIIbb3 integrin activation paths using manifold learning and deep generative modeling. [https://doi.org/10.1016/j.bpj.2023.12.009]
-  - implementation of collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). 
+  - implementation of collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). Link to paper: [https://doi.org/10.1038/s41524-023-01189-z](https://doi.org/10.1038/s41524-023-01189-z) 
   
 ✔️  Completed works
   - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water. [Featured on TACC magazine -https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/](https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/)
