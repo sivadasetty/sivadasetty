@@ -5,9 +5,9 @@
 <!--[[Link to CV](https://github.com/sivadasetty/sivadasetty/blob/6b89ce41fc0ea1a722fe775c3d13fcf7f10dbafe/docs/CV-SivaDasetty.pdf)]-->
 
 🔭 Active works
-  - development of coarse-grained models and enhanced sampling methods using machine learning for large multi-molecular systems.
-      -   Data-driven prediction of aIIbb3 integrin activation paths using manifold learning and deep generative modeling. [https://doi.org/10.1016/j.bpj.2023.12.009]
-  - implementation of collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). Link to paper: [https://doi.org/10.1038/s41524-023-01189-z](https://doi.org/10.1038/s41524-023-01189-z) 
+  - development of ultra coarse-grained models and enhanced sampling methods using machine learning for studying phase transitions of chiral and large multi-molecular systems.
+      
+  
   
 ✔️  Completed works
   - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water. [Featured on TACC magazine -https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/](https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/)
@@ -15,7 +15,8 @@
   - implementation of artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2) for direct enhanced sampling along system and environmental variables ([PINES](https://github.com/Ferg-Lab/pines/tree/main)). Link to paper: [https://doi.org/10.48550/arXiv.2308.08680](https://doi.org/10.48550/arXiv.2308.08680)
   - active learning of polarizable nanoparticle phase diagrams for the guided design of triggerable self-assembling superlattices. [Link to published paper — featured in MSDE recent HOT 🔥 articles collection.](https://doi.org/10.1039/D1ME00187F)
   - permutationally invariant enhanced sampling method (PINES) [https://doi.org/10.1021/acs.jctc.3c00923].
-  
+  - implementation of collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). Link to paper: [https://doi.org/10.1038/s41524-023-01189-z](https://doi.org/10.1038/s41524-023-01189-z) 
+  - Data-driven prediction of aIIbb3 integrin activation paths using manifold learning and deep generative modeling. [https://doi.org/10.1016/j.bpj.2023.12.009]
 
 <!--
 🖥️ using
