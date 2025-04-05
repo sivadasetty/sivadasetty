@@ -5,7 +5,7 @@
 <!--[[Link to CV](https://github.com/sivadasetty/sivadasetty/blob/6b89ce41fc0ea1a722fe775c3d13fcf7f10dbafe/docs/CV-SivaDasetty.pdf)]-->
 
 🔭 Active works
-  - development of ultra coarse-grained models and enhanced sampling methods using machine learning for studying phase transitions of chiral and large multi-molecular systems.
+  - development of ultra coarse-grained models and enhanced sampling methods using machine learning for studying thermodynamics of chiral and DNA systems.
       
   
   
@@ -17,6 +17,7 @@
   - permutationally invariant enhanced sampling method (PINES) [https://doi.org/10.1021/acs.jctc.3c00923].
   - implementation of collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). Link to paper: [https://doi.org/10.1038/s41524-023-01189-z](https://doi.org/10.1038/s41524-023-01189-z) 
   - Data-driven prediction of aIIbb3 integrin activation paths using manifold learning and deep generative modeling. [https://doi.org/10.1016/j.bpj.2023.12.009]
+  - Equation-free data-driven acceleration of microtubule dynamics [Featured on Phys.org - https://phys.org/news/2025-04-supercomputer-microtubule-dynamics-insights-neurodegenerative.html](https://phys.org/news/2025-04-supercomputer-microtubule-dynamics-insights-neurodegenerative.html)
 
 <!--
 🖥️ using
