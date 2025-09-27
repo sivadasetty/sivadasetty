@@ -10,13 +10,17 @@
   
   
 ✔️  Completed works
-  - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water. [Featured in TACC magazine - https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/](https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/). Link to paper: [https://doi.org/10.1021/acs.jced.3c00404](https://doi.org/10.1021/acs.jced.3c00404) [https://doi.org/10.1038/s44221-025-00505-9](https://doi.org/10.1038/s44221-025-00505-9)
+  - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water. [Featured in TACC magazine - https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/](https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/). 
+    - Paper 1: [https://doi.org/10.1021/acs.jced.3c00404](https://doi.org/10.1021/acs.jced.3c00404)
+    - Paper 2: [https://doi.org/10.1038/s44221-025-00505-9](https://doi.org/10.1038/s44221-025-00505-9)
   - implementation of metadynamics in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PySAGES](https://github.com/SSAGESLabs/PySAGES). Link to paper: [https://doi.org/10.48550/arXiv.2301.04835](https://doi.org/10.48550/arXiv.2301.04835)
   - implementation of artificial neural network based CV in [PLUMED](https://github.com/plumed/plumed2) for direct enhanced sampling along system and environmental variables ([PINES](https://github.com/Ferg-Lab/pines/tree/main)). Link to paper: [https://doi.org/10.48550/arXiv.2308.08680](https://doi.org/10.48550/arXiv.2308.08680)
   - active learning of polarizable nanoparticle phase diagrams for the guided design of triggerable self-assembling superlattices. [Link to published paper — featured in MSDE recent HOT 🔥 articles collection.](https://doi.org/10.1039/D1ME00187F)
   - permutationally invariant enhanced sampling method (PINES) [https://doi.org/10.1021/acs.jctc.3c00923].
   - implementation of collective variables in [PySAGES](https://github.com/SSAGESLabs/PySAGES). Link to paper: [https://doi.org/10.1038/s41524-023-01189-z](https://doi.org/10.1038/s41524-023-01189-z) 
-  - Data-driven prediction of aIIbb3 integrin activation paths using manifold learning and deep generative modeling. [https://doi.org/10.1016/j.bpj.2023.12.009] [https://doi.org/10.1101/2025.05.16.654557]
+  - Data-driven prediction of aIIbb3 integrin activation paths using manifold learning and deep generative modeling.
+    - Paper 1: [https://doi.org/10.1016/j.bpj.2023.12.009]
+    - Paper 2: [https://doi.org/10.1101/2025.05.16.654557]
   - Equation-free data-driven acceleration of microtubule dynamics [Featured in Phys.org - https://phys.org/news/2025-04-supercomputer-microtubule-dynamics-insights-neurodegenerative.html](https://phys.org/news/2025-04-supercomputer-microtubule-dynamics-insights-neurodegenerative.html). Link to paper: [https://doi.org/10.1016/j.bpj.2025.01.009](https://doi.org/10.1016/j.bpj.2025.01.009)
 
 <!--
