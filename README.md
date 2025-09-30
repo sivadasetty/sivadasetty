@@ -10,7 +10,7 @@
   
   
 ✔️  Completed works
-  - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water. [Featured in TACC magazine - https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/](https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/). 
+  - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water. Featured in TACC magazine [https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/](https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/), CBS Chicago news [https://www.cbsnews.com/chicago/news/university-of-chicago-researchers-sensitive-test-pfas/](https://www.cbsnews.com/chicago/news/university-of-chicago-researchers-sensitive-test-pfas/), and UChicago news [https://pme.uchicago.edu/news/tiny-sensors-rapidly-detect-forever-chemicals-water](https://pme.uchicago.edu/news/tiny-sensors-rapidly-detect-forever-chemicals-water). 
     - Paper 1: [https://doi.org/10.1021/acs.jced.3c00404](https://doi.org/10.1021/acs.jced.3c00404)
     - Paper 2: [https://doi.org/10.1038/s44221-025-00505-9](https://doi.org/10.1038/s44221-025-00505-9)
   - implementation of metadynamics in [SSAGES](https://github.com/SSAGESproject/SSAGES) and [PySAGES](https://github.com/SSAGESLabs/PySAGES). Link to paper: [https://doi.org/10.48550/arXiv.2301.04835](https://doi.org/10.48550/arXiv.2301.04835)
