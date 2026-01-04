@@ -4,12 +4,12 @@
 
 <!--[[Link to CV](https://github.com/sivadasetty/sivadasetty/blob/6b89ce41fc0ea1a722fe775c3d13fcf7f10dbafe/docs/CV-SivaDasetty.pdf)]-->
 
-🔭 Active works
+🔭 Ongoing
   - development of ultra coarse-grained models and enhanced sampling methods using machine learning for studying thermodynamics of chiral and DNA systems.
       
   
   
-✔️  Completed works
+✔️  Completed 
   - development and application of a novel machine learning (ML) based solution for tackling a grand challenge in water. Featured in TACC magazine [https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/](https://texascale.org/2022/powering-discoveries/ai-and-real-solutions-frontera/), CBS Chicago news [https://www.cbsnews.com/chicago/news/university-of-chicago-researchers-sensitive-test-pfas/](https://www.cbsnews.com/chicago/news/university-of-chicago-researchers-sensitive-test-pfas/), and UChicago news [https://pme.uchicago.edu/news/tiny-sensors-rapidly-detect-forever-chemicals-water](https://pme.uchicago.edu/news/tiny-sensors-rapidly-detect-forever-chemicals-water). 
     - Paper 1: [https://doi.org/10.1021/acs.jced.3c00404](https://doi.org/10.1021/acs.jced.3c00404)
     - Paper 2: [https://doi.org/10.1038/s44221-025-00505-9](https://doi.org/10.1038/s44221-025-00505-9)
