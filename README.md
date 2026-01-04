@@ -44,7 +44,7 @@
 ♾️ Interests
   - Data-driven methods & applications.
   - Statistical mechanics, enhanced sampling methods, probability, nonlinear dynamics.
-  - Modeling, numerical methods, computational design.
+  - Numerical methods, computational design.
   - Deep learning, coding, algorithms, network theory.
 
 ------------
