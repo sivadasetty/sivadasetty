@@ -1,4 +1,4 @@
-👋🏽 I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
+I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago.
 <!-- Hi there 👋🏽 -- >
 #### I'm a postdoc in [Ferguson lab](https://www.ferglab.com), PME @UChicago. 
 
